@@ -6,12 +6,7 @@ Please, read [this post](http://mariomarroquim.github.io/blog/2013/09/11/ruby-in
 Usage
 -----
 
-ruby logical_regression.rb training-data.xlsx or ruby neural_network.rb training-data.xlsx
-
-TODO
-----
-
-* Test those multifunctional scanners!
+```ruby logical_regression.rb training-data.xlsx``` or ```ruby neural_network.rb training-data.xlsx```
 
 Support
 -------
